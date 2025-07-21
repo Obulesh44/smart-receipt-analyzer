@@ -3,12 +3,19 @@ __pycache__/
 *.pyc
 
 # Env files
+myenv/
+env/
+venv/
 .env
 
 # Streamlit cache
 .streamlit/
 *.csv
 *.json
+
+# 🧾 Receipt processing
+temp_receipt/
+*.png
 
 # VSCode or IDE files
 .vscode/
@@ -21,3 +28,12 @@ Thumbs.db
 # PDFs, uploads
 uploads/
 receipts/
+
+# 📦 Dependency Lock Files
+poetry.lock
+Pipfile.lock
+
+# 💾 Database/Cache Files
+*.sqlite3
+*.db
+*.log
