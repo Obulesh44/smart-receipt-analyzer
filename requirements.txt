@@ -1,0 +1,19 @@
+streamlit
+pandas
+plotly
+matplotlib
+requests
+psycopg2-binary
+sqlalchemy
+fastapi
+uvicorn[standard]
+
+pytesseract
+pdf2image
+pillow
+opencv-python
+python-magic
+
+python-multipart       # For file uploads (PDF/Images)
+python-dateutil
+pydantic

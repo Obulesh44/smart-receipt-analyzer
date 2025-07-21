@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+
+# Env files
+.env
+
+# Streamlit cache
+.streamlit/
+*.csv
+*.json
+
+# VSCode or IDE files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# PDFs, uploads
+uploads/
+receipts/
