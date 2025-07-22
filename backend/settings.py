@@ -1,8 +1,8 @@
 # backend/settings.py
 DB_CONFIG = {
-    "dbname": "smartDB",
-    "user": "postgres",
-    "password": "1234",
+    "dbname": "Your_DB",
+    "user": "user_name",
+    "password": "your_password",
     "host": "localhost",
     "port": "5432"
 }
